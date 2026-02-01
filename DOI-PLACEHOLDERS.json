@@ -1,0 +1,13 @@
+{
+  "note": "Placeholders only. Replace after publication. This file grants no access and contains no secrets.",
+  "zenodo": {
+    "community_doi": "10.5281/zenodo.REPLACE_ME",
+    "series_i_collection_doi": "10.5281/zenodo.REPLACE_ME",
+    "canonical_library_release_doi": "10.5281/zenodo.REPLACE_ME"
+  },
+  "figshare": {
+    "project_doi": "10.6084/m9.figshare.REPLACE_ME",
+    "series_i_collection_doi": "10.6084/m9.figshare.REPLACE_ME",
+    "canonical_library_release_doi": "10.6084/m9.figshare.REPLACE_ME"
+  }
+}
